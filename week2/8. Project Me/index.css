@@ -5,7 +5,7 @@ html {
 
 body {
     padding: 10px;
-    background-image: linear-gradient(#5DA4D9, #FFF);
+     background-image: linear-gradient(#ff5e1f, #ffcb1f);
 }
 
 #emoji-container {
@@ -19,17 +19,17 @@ body {
 }
 
 #push-btn,#unshift-btn {
-    background-color: #80D87F;
+    background-color: #fc6b03;
 }
 
 #shift-btn,#pop-btn {
-    background-color: #E23349;
+    background-color: #c203fc;
 }
 
 h1 {
     letter-spacing: 2px;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 input {
@@ -58,5 +58,3 @@ button {
     justify-content: center;
     margin: 10px 0 40px;
 }
-
-
